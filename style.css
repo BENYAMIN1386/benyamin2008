@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+body {
+    background-color: #ff6600;
+    text-align: center;
+    font-family: 'Lalezar', cursive;
+}
+
+.img1 {
+    border-radius: 18px;
+}
+
+.div1 {
+    background-color: #fa892c;
+    width: 70vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.text1 {
+    text-align: center;
+    padding: 10px 20px;
+    color: #001219;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+}
+
+.div2 {
+    background-color: #fa892c;
+    width: 70vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.div3 {
+    background-color: #fa892c;
+    width: 70vw;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.insta {
+    background-color: #f5175a;
+    display: inline-block;
+    color: #001219;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    border-radius: 18px;
+    padding: 15px 10px;
+}
